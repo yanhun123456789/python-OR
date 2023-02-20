@@ -1,0 +1,7 @@
+from tkinter import *
+from tkinter.ttk import *
+from tkinter.filedialog import askdirectory
+from tkinter import messagebox
+import qrcode
+import cv2
+import os
